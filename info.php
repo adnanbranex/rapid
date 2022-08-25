@@ -1,6 +1,6 @@
 <?php
 
-echo "rapid testging";
+echo "wordpress branch";
 
 ?>
 
