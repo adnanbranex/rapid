@@ -1,1 +1,6 @@
-<?php echo "AAAAAAAA123132"?>
+<?php
+
+echo "rapid testging";
+
+?>
+
