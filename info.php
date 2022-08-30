@@ -1,6 +1,6 @@
 <?php
 
-echo "rapid odle code ";
+echo "Adnan Khalid code";
 
 ?>
 
