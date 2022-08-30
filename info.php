@@ -1,4 +1,1 @@
-<?php
-echo "Adnan Khalid code";
-?>
-
+<?php echo "AAAAAAAA"?>
