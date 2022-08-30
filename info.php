@@ -1,4 +1,4 @@
 <?php
-echo "Adnan Khalid code";
+echo "Adnan Khalid adnan.php";
 ?>
 
